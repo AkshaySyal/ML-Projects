@@ -1,0 +1,3 @@
+I first downloaded a dataset called 'US monthly Air Passengers' from a site "Data World" which contains monthly data from 2000 to 2015 about flights going to or from various US 
+cities. I converted that dataset to another dataset which has data on flights specifically going from Indian cities to US (India to US.csv). Then I performed data exploration and
+time series analysis on that dataset.
