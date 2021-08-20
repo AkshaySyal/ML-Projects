@@ -1,0 +1,2 @@
+In this project I downloaded dataset of stock prices of a company TCS from Kaggle and did linear regression on the features to predict price of the stock at which it will trade
+the next day (open price).
